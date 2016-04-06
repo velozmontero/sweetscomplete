@@ -20,15 +20,15 @@
 		</div>
 		<div class="right marT10">
 			<b>
-			<a href="login.html" >Login</a> |<a href="members.html" >Our Members</a> |<a href="cart.html" >Shopping Cart</a>
+			<a href="login.php" >Login</a> |<a href="members.php" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
 			</b>
 			<br />
 			Welcome Guest		</div>
 		<ul class="topmenu">
-		<li><a href="home.html">Home</a></li>
-		<li><a href="about.html">About Us</a></li>
-		<li><a href="products.html">Products</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
+		<li><a href="home.php">Home</a></li>
+		<li><a href="about.php">About Us</a></li>
+		<li><a href="products.php">Products</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
 		</ul>
 		<br>
 		<div class="banner"><p></p></div>
@@ -41,7 +41,7 @@
 	
 	<div class="search">
 		
-		<form name="search" method="get" action="search.html" id="search">
+		<form name="search" method="get" action="search.php" id="search">
 			<input type="text" value="keywords" name="keyword" class="s0" />
 			<br />
 			<select name="title" class="s2">
@@ -63,74 +63,74 @@
 
 	<div class="product-list">
 		<h2>Products on Special</h2>
-		<a class="pages" href="specials.html">&lt;prev</a>
+		<a class="pages" href="specials.php">&lt;prev</a>
 		&nbsp;|&nbsp;
-		<a class="pages" href="specials.html">next&gt;</a>
+		<a class="pages" href="specials.php">next&gt;</a>
 		<ul>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3150132.scale_20.JPG" alt=" Chocolate Angelfood Cupcakes" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Chocolate Angelfood Cupcakes</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Chocolate Angelfood Cupcakes</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Fruit Salad" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Fruit Salad</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Fruit Salad</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/95_2542284.scale_20.JPG" alt=" Fudge" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Fudge</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Fudge</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/700_3473780.scale_20.JPG" alt=" Peanut Brittle" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Peanut Brittle</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Peanut Brittle</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Sugar Cookies" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Sugar Cookies</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Sugar Cookies</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Toasted Marshmallows" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Toasted Marshmallows</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Toasted Marshmallows</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 			</ul>
@@ -147,7 +147,7 @@
 	<div id="footer">
 		<div class="footer">
 			Copyright &copy; 2012 sweetscomplete.com. All rights reserved. <br/>
-		<a href="home.html">Home</a> | <a href="about.html">About Us</a> | <a href="products.html">Products</a> | <a href="contact.html">Contact Us</a> 		<br />
+		<a href="home.php">Home</a> | <a href="about.php">About Us</a> | <a href="products.php">Products</a> | <a href="contact.php">Contact Us</a> 		<br />
 			<span class="contact">Tel: +44-1234567890&nbsp;
 			Fax: +44-1234567891&nbsp;
 			Email:sales@sweetscomplete.com</span>

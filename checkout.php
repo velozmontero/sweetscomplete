@@ -19,15 +19,15 @@
 		</div>
 		<div class="right marT10">
 			<b>
-			<a href="login.html" >Login</a> |<a href="members.html" >Our Members</a> |<a href="cart.html" class="active" >Shopping Cart</a>
+			<a href="login.php" >Login</a> |<a href="members.php" >Our Members</a> |<a href="cart.php" class="active" >Shopping Cart</a>
 			</b>
 			<br />
 			Welcome Guest		</div>
 		<ul class="topmenu">
-		<li><a href="home.html">Home</a></li>
-		<li><a href="about.html">About Us</a></li>
-		<li><a href="products.html">Products</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
+		<li><a href="home.php">Home</a></li>
+		<li><a href="about.php">About Us</a></li>
+		<li><a href="products.php">Products</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
 		</ul>
 		<br>
 		<div class="banner"><p></p></div>
@@ -133,7 +133,7 @@
 			<input type="hidden" name="shipping" value="2.33" />
 			<input type="hidden" name="tax" value="2.33" />
 			<input type="hidden" name="tax" value="2.33" />
-			<input type="hidden" name="return" value="thanks.html" />
+			<input type="hidden" name="return" value="thanks.php" />
 			</form>
 		<p>
 		</form>
@@ -146,7 +146,7 @@
 	<div id="footer">
 		<div class="footer">
 			Copyright &copy; 2012 sweetscomplete.com. All rights reserved. <br/>
-		<a href="home.html">Home</a> | <a href="about.html">About Us</a> | <a href="products.html">Products</a> | <a href="contact.html">Contact Us</a> 		<br />
+		<a href="home.php">Home</a> | <a href="about.php">About Us</a> | <a href="products.php">Products</a> | <a href="contact.php">Contact Us</a> 		<br />
 			<span class="contact">Tel: +44-1234567890&nbsp;
 			Fax: +44-1234567891&nbsp;
 			Email:sales@sweetscomplete.com</span>

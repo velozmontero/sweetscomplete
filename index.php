@@ -18,14 +18,14 @@
 		</div>
 		<div class="right marT10">
 			<b>
-			<a href="login.html" >Login</a> |<a href="members.html" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
+			<a href="login.php" >Login</a> |<a href="members.php" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
 			</b>
 		</div>
 		<ul class="topmenu">
-		<li><a href="about.html">About Us</a></li>
+		<li><a href="about.php">About Us</a></li>
 		<li><a href="products.php">Products</a></li>
-		<li><a href="specials.html">Specials</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
+		<li><a href="specials.php">Specials</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
 		</ul>
 		<br>
 		<div class="banner"><p></p></div>
@@ -35,7 +35,7 @@
 	<div class="content">
 	
 	<div class="search left">
-		<form name="search" method="get" action="search.html" id="search">
+		<form name="search" method="get" action="search.php" id="search">
 			<input type="text" value="keywords" name="keyword" class="s0" />
 			<br />
 			<select name="title" class="s2">
@@ -51,7 +51,7 @@
 	  <h3>About Us</h3><br/>
 	  <p>Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer, Lorem ipsum dolor sit amet consectetuer
 	  Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer.
-	  <a href="about.html">Read More</a>
+	  <a href="about.php">Read More</a>
 	  </p>
 	</div>
 	<br class="clear"/>
@@ -63,35 +63,35 @@
 		<ul class="specials">
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3150132.scale_20.JPG" alt=" Chocolate Angelfood Cupcakes" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Chocolate Angelfood Cupcakes</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Chocolate Angelfood Cupcakes</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Fruit Salad" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Fruit Salad</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Fruit Salad</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/95_2542284.scale_20.JPG" alt=" Fudge" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Fudge</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Fudge</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 			</ul>
@@ -105,7 +105,7 @@
 	<div id="footer">
 		<div class="footer">
 			Copyright &copy; 2012 sweetscomplete.com. All rights reserved. <br/>
-		<a href="about.html">About Us</a> | <a href="products.php">Products</a> | <a href="specials.html">Specials</a> | <a href="contact.html">Contact Us</a> 		<br />
+		<a href="about.php">About Us</a> | <a href="products.php">Products</a> | <a href="specials.php">Specials</a> | <a href="contact.php">Contact Us</a> 		<br />
 			<span class="contact">Tel: +44-1234567890&nbsp;
 			Fax: +44-1234567891&nbsp;
 			Email:sales@sweetscomplete.com</span>

@@ -19,15 +19,15 @@
 		</div>
 		<div class="right marT10">
 			<b>
-			<a href="login.html" >Login</a> |<a href="members.html" >Our Members</a> |<a href="cart.html" >Shopping Cart</a>
+			<a href="login.php" >Login</a> |<a href="members.php" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
 			</b>
 			<br />
 			Welcome Guest		</div>
 		<ul class="topmenu">
-		<li><a href="home.html">Home</a></li>
-		<li><a href="about.html">About Us</a></li>
-		<li><a href="specials.html">Specials</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
+		<li><a href="home.php">Home</a></li>
+		<li><a href="about.php">About Us</a></li>
+		<li><a href="specials.php">Specials</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
 		</ul>
 		<br>
 		<div class="banner"><p></p></div>
@@ -39,7 +39,7 @@
 <div id="leftnav">
 	<div class="search">
 
-		<form name="search" method="get" action="search.html" id="search">
+		<form name="search" method="get" action="search.php" id="search">
 			<input type="text" value="keywords" name="keyword" class="s0" />
 			<br />
 			<select name="title" class="s2">
@@ -52,7 +52,7 @@
 		
 		<h3>About Us</h3><br/>
 		<p class="width180">Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer, Lorem ipsum dolor sit amet consectetuer
-	  Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer.  <a href="about.html">Read More >> </a></p>
+	  Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer.  <a href="about.php">Read More >> </a></p>
 	</div>
 </div><!-- leftnav -->
 
@@ -61,107 +61,107 @@
 
 	<div class="product-list">
 		<h2>Our Products</h2>
-		<a class="pages" href="products.html">&lt;prev</a>
+		<a class="pages" href="products.php">&lt;prev</a>
 		&nbsp;|&nbsp;
-		<a class="pages" href="products.html">next&gt;</a>
+		<a class="pages" href="products.php">next&gt;</a>
 			<ul>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Ambrosia Salad" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Ambrosia Salad</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Ambrosia Salad</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Apple Pie a la Mode" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Apple Pie a la Mode</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Apple Pie a la Mode</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3151480.scale_20.JPG" alt=" Apple Turnover" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Apple Turnover</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Apple Turnover</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3150132.scale_20.JPG" alt=" Baked Alaska" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Baked Alaska</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Baked Alaska</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/700_3473780.scale_20.JPG" alt=" Baklava" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Baklava</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Baklava</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3151480.scale_20.JPG" alt=" Banana Bread" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Banana Bread</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Banana Bread</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/430_3150132.scale_20.JPG" alt=" Banana Pudding" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Banana Pudding</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Banana Pudding</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Banana Split" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Banana Split</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Banana Split</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 				<li>
 					<div class="image">
-						<a href="detail.html">
+						<a href="detail.php">
 						<img src="images/167_2835774.scale_20.JPG" alt=" Black Forest Cake" width="190" height="130"/>
 						</a>
 					</div>
 					<div class="detail">
-						<p class="name"><a href="detail.html"> Black Forest Cake</a></p>
-						<p class="view"><a href="detail.html">purchase</a> | <a href="detail.html">view details >></a></p>
+						<p class="name"><a href="detail.php"> Black Forest Cake</a></p>
+						<p class="view"><a href="detail.php">purchase</a> | <a href="detail.php">view details >></a></p>
 					</div>
 				</li>
 		</ul>
@@ -178,7 +178,7 @@
 	<div id="footer">
 		<div class="footer">
 			Copyright &copy; 2012 sweetscomplete.com. All rights reserved. <br/>
-		<a href="home.html">Home</a> | <a href="about.html">About Us</a> | <a href="specials.html">Specials</a> | <a href="contact.html">Contact Us</a> 		<br />
+		<a href="home.php">Home</a> | <a href="about.php">About Us</a> | <a href="specials.php">Specials</a> | <a href="contact.php">Contact Us</a> 		<br />
 			<span class="contact">Tel: +44-1234567890&nbsp;
 			Fax: +44-1234567891&nbsp;
 			Email:sales@sweetscomplete.com</span>

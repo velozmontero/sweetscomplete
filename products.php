@@ -37,15 +37,15 @@ $linesPerPage = 6;
 		</div>
 		<div class="right marT10">
 			<b>
-			<a href="login.html" >Login</a> |<a href="members.html" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
+			<a href="login.php" >Login</a> |<a href="members.php" >Our Members</a> |<a href="cart.php" >Shopping Cart</a>
 			</b>
 			<br />
 			Welcome Guest		</div>
 		<ul class="topmenu">
 		<li><a href="index.php">Home</a></li>
-		<li><a href="about.html">About Us</a></li>
-		<li><a href="specials.html">Specials</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
+		<li><a href="about.php">About Us</a></li>
+		<li><a href="specials.php">Specials</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
 		</ul>
 		<br>
 		<div class="banner"><p></p></div>
@@ -57,7 +57,7 @@ $linesPerPage = 6;
 <div id="leftnav">
 	<div class="search">
 
-		<form name="search" method="get" action="search.html" id="search">
+		<form name="search" method="get" action="search.php" id="search">
 			<input type="text" value="keywords" name="keyword" class="s0" />
 			<br />
 			<select name="title" class="s2">
@@ -77,7 +77,7 @@ $linesPerPage = 6;
 
 		<h3>About Us</h3><br/>
 		<p class="width180">Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer, Lorem ipsum dolor sit amet consectetuer
-	  Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer.  <a href="about.html">Read More >> </a></p>
+	  Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer. Lorem ipsum dolor sit amet consectetuer.  <a href="about.php">Read More >> </a></p>
 	</div>
 </div><!-- leftnav -->
 
@@ -105,7 +105,7 @@ $linesPerPage = 6;
 	<div id="footer">
 		<div class="footer">
 			Copyright &copy; 2012 sweetscomplete.com. All rights reserved. <br/>
-		<a href="index.php">Home</a> | <a href="about.html">About Us</a> | <a href="specials.html">Specials</a> | <a href="contact.html">Contact Us</a> 		<br />
+		<a href="index.php">Home</a> | <a href="about.php">About Us</a> | <a href="specials.php">Specials</a> | <a href="contact.php">Contact Us</a> 		<br />
 			<span class="contact">Tel: +44-1234567890&nbsp;
 			Fax: +44-1234567891&nbsp;
 			Email:sales@sweetscomplete.com</span>
